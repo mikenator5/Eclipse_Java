@@ -1,0 +1,3 @@
+Course: 30 Credits
+Year: 120 Credits
+Degree: 360 Credits
